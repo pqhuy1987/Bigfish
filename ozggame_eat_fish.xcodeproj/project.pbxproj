@@ -1853,8 +1853,9 @@
 					"-lsqlite3",
 					"-ObjC",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = "com.yourcompany.ozggame-eat-fish1";
+				PRODUCT_BUNDLE_IDENTIFIER = com.twokingstudio.bigfish.100;
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				TARGETED_DEVICE_FAMILY = 1;
 				WRAPPER_EXTENSION = app;
 			};
 			name = Debug;
@@ -1875,8 +1876,9 @@
 					"-lsqlite3",
 					"-ObjC",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = "com.yourcompany.ozggame-eat-fish1";
+				PRODUCT_BUNDLE_IDENTIFIER = com.twokingstudio.bigfish.100;
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				TARGETED_DEVICE_FAMILY = 1;
 				VALIDATE_PRODUCT = YES;
 				WRAPPER_EXTENSION = app;
 			};
