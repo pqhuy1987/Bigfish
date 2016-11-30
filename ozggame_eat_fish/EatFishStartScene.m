@@ -95,7 +95,7 @@
 //            [alert show];
             
 #ifdef __CC_PLATFORM_IOS
-            UIAlertView *alert = [[[UIAlertView alloc] initWithTitle:NSLocalizedString(@"Alert_Title", nil) message:@"本功能未完成" delegate:self cancelButtonTitle:@"确定" otherButtonTitles:nil] autorelease];
+            UIAlertView *alert = [[[UIAlertView alloc] initWithTitle:@"Release By" message:@"TWOKINGSTUDIO" delegate:self cancelButtonTitle:@"OK" otherButtonTitles:nil] autorelease];
             [alert show];
 #elif defined(__CC_PLATFORM_MAC)
             NSAlert *alert = [[[NSAlert alloc] init] autorelease];

@@ -12,7 +12,7 @@
 "StartScene_AlertBtnMonitor" = "Monitor";
 "StartScene_AlertBtnScan" = "Scan";
 "StartScene_BtnStart" = "Start";
-"StartScene_BtnBluetooth" = "Bluetooth";
+"StartScene_BtnBluetooth" = "About";
 "StartScene_BtnHelp" = "Help";
 "StartScene_HelpTitle" = "Help:";
 "StartScene_Help1" = "Eat smaller fish";
