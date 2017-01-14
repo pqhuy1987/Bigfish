@@ -1468,7 +1468,8 @@
 				ORGANIZATIONNAME = "欧志刚";
 				TargetAttributes = {
 					8975B84718252FB5006A957F = {
-						DevelopmentTeam = 7A3KSATNU7;
+						DevelopmentTeam = FSP2U7T379;
+						ProvisioningStyle = Automatic;
 					};
 				};
 			};
@@ -1845,8 +1846,9 @@
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
 				COPY_PHASE_STRIP = NO;
-				DEVELOPMENT_TEAM = 7A3KSATNU7;
+				DEVELOPMENT_TEAM = FSP2U7T379;
 				GCC_DYNAMIC_NO_PIC = NO;
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = ozggame_eat_fish/Prefix.pch;
@@ -1858,7 +1860,7 @@
 					"-lsqlite3",
 					"-ObjC",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = com.media.fisheatfish.100;
+				PRODUCT_BUNDLE_IDENTIFIER = com.digital.fisheatfish.100;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				TARGETED_DEVICE_FAMILY = 1;
 				WRAPPER_EXTENSION = app;
@@ -1870,8 +1872,9 @@
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
 				COPY_PHASE_STRIP = YES;
-				DEVELOPMENT_TEAM = 7A3KSATNU7;
+				DEVELOPMENT_TEAM = FSP2U7T379;
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = ozggame_eat_fish/Prefix.pch;
 				HEADER_SEARCH_PATHS = "\"ozggame_eat_fish/libs/kazmath/include\"";
@@ -1882,7 +1885,7 @@
 					"-lsqlite3",
 					"-ObjC",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = com.media.fisheatfish.100;
+				PRODUCT_BUNDLE_IDENTIFIER = com.digital.fisheatfish.100;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				TARGETED_DEVICE_FAMILY = 1;
 				VALIDATE_PRODUCT = YES;
