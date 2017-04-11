@@ -1809,7 +1809,7 @@
 					"-lsqlite3",
 					"-ObjC",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = com.gamming.fish.100;
+				PRODUCT_BUNDLE_IDENTIFIER = com.gamming.fish2.100;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				PROVISIONING_PROFILE = "";
 				TARGETED_DEVICE_FAMILY = 1;
@@ -1836,7 +1836,7 @@
 					"-lsqlite3",
 					"-ObjC",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = com.gamming.fish.100;
+				PRODUCT_BUNDLE_IDENTIFIER = com.gamming.fish2.100;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				PROVISIONING_PROFILE = "";
 				TARGETED_DEVICE_FAMILY = 1;
